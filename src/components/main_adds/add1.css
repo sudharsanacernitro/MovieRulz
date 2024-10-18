@@ -1,0 +1,40 @@
+
+.add_container{
+    margin-top: 5%;
+    display: flex;
+    margin-bottom: 5%;
+}
+
+#add_content{
+    background-color: black;
+    color: red;
+    width:150vh;
+    border-radius: 120px 0px 120px 0px;
+    font-size: 130px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+#add_content span{
+    color:white;
+    margin-left: 20%;
+}
+
+#add_content span1{
+    margin-left: 40%;
+}
+#add {
+    -webkit-animation: mover 1s infinite  alternate;
+    animation: mover 1s infinite  alternate;
+    color: black;
+}
+@-webkit-keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-40px); }
+}
+@keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-40px); }
+}

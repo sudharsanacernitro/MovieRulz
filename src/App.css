@@ -1,0 +1,9 @@
+.slick-prev, .slick-next {
+    font-size: 30px;
+    color: black; /* Change the color of the arrows */
+  }
+  
+  .slick-prev:before, .slick-next:before {
+    font-size: 30px;
+    color: black; /* Change the color of the arrows */
+  }

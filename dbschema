@@ -1,0 +1,18 @@
+
+INSERT INTO product (id, name, img, ratings, price, main_cat) 
+VALUES 
+(1, 'bolt-audio', '1.webp', '4.5', 1999, 'HeadPhones'),
+(2, 'boat-bassheads', '2.webp', '4.0', 2999, 'HeadPhones'),
+(3, 'fire-bolt', '3.webp', '4.0', 2999, 'HeadPhones'),
+(4, 'noise', '4.webp', '4.0', 999, 'HeadPhones'),
+(5, 'Samsung', '2.webp', '4.0', 2099, 'HeadPhones'),
+(6, 'Mi', '1.webp', '3.8', 1499, 'HeadPhones'),
+(7, 'Rolex', '1.webp', '4.5', 1999, 'Watches'),
+(8, 'Omega', '2.webp', '4.0', 2999, 'Watches'),
+(9, 'Timex', '3.webp', '4.0', 2999, 'Watches'),
+(10, 'Fossil', '4.webp', '4.0', 999, 'Watches'),
+(11, 'Casio', '5.webp', '4.0', 2099, 'Watches'),
+(12, 'Citizen', '6.webp', '3.8', 1499, 'Watches'),
+(13, 'Seik', '7.webp', '3.8', 1499, 'Watches'),
+(14, 'Bulova', '8.webp', '3.8', 1499, 'Watches');
+

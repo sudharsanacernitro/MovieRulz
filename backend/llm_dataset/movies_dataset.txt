@@ -1,0 +1,39 @@
+1. Stranger Things
+    Genre: Horror, Science Fiction
+    Description: A group of kids in the 1980s discovers a secret government laboratory and a girl with supernatural abilities while searching for their missing friend.
+
+2. The Nun
+    Genre: Horror
+    Description: A priest and a novice investigate the mysterious death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.
+
+3. Annabelle
+    Genre: Horror
+    Description: A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.
+
+4. The Grudge
+    Genre: Horror
+    Description: A nurse who uncovers a terrifying curse while investigating a home where a family was brutally murdered.
+    
+5. Demonte Colony
+    Genre: Horror
+    Description: A group of friends decides to explore an abandoned colony that is rumored to be haunted, only to find themselves tormented by supernatural forces.
+   
+6. Extraction
+    Genre: Action, Thriller
+    Description: A black ops mercenary's mission to rescue an Indian crime lord's kidnapped son in Dhaka, Bangladesh, goes awry as he faces overwhelming odds.
+   
+7. Extraction 2
+    Genre: Action, Thriller
+    Description: The sequel follows Tyler Rake as he embarks on a new mission to save a family from a Georgian prison.
+    
+8. Mad Max
+    Genre: Action, Post-Apocalyptic
+    Description: In a dystopian future, a former police officer becomes a reluctant hero as he fights to protect a group of survivors against a tyrannical warlord.
+
+9. Tomb Raider
+    Genre: Action, Adventure
+    Description: Lara Croft embarks on a dangerous journey to find her missing father and uncover the secrets of a mysterious island.
+
+10. Journey 2: The Mysterious Island
+    Genre: Action, Adventure, Family
+    Description: A teenager and his stepfather go on an adventure to a mythical island to find his grandfather, encountering numerous challenges along the way.
